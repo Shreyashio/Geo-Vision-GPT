@@ -82,9 +82,9 @@ The system follows a layered architecture separating the user interface, orchest
 │     Image Storage │ Vector Data │ Result Cache       │
 └─────────────────────────────────────────────────────┘
 ```
-
-> See the [Excalidraw system diagram](#) included in the repository root (`architecture.excalidraw`) for the full interactive version.
-
+<div align="center">
+  <img src="ARCHITECTURE.png" width="800" alt="System Architecture" style="border-radius:10px; />
+</div>
 ---
 
 ## 🛠️ Tech Stack
