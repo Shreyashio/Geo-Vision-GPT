@@ -83,7 +83,7 @@ The system follows a layered architecture separating the user interface, orchest
 └─────────────────────────────────────────────────────┘
 ```
 <div align="center">
-<img src="ARCHITECTURE.png" width="800" alt="System Architecture" style="border-radius:10px;" />
+  <img src="build/assets/ARCHITECTURE.png" width="800" alt="System Architecture"/>
 </div>
 ```
 ---
